@@ -2,7 +2,7 @@
 *** welcome to my personal page***
 
  --------
-## my hobbys:
+## my hobbies:
 
 > programming
 > painting
