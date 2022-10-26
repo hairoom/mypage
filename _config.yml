@@ -5,4 +5,4 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: [introduction]
-description: [A short description of your site's purpose]
+description: [my personal short introduction]
