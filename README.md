@@ -4,15 +4,15 @@
  --------
 ## my hobbies:
 
-> programming    
+> programming,    
 
-> painting    
+> painting,    
 
-> eating    
+> eating,    
 
-> sleeping    
+> sleeping.    
 
 
----------
+
 
 ## OvO
